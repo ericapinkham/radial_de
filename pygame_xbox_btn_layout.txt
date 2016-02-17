@@ -1,0 +1,24 @@
+
+axes:
+axis 0: left stick left(-1) right(+1)
+axis 1: left stick up(-1) down(+1)
+axis 2: left trigger released(-1) pressed(1)
+axis 3: right stick left(-1) right(+1)
+axis 4: right stick up(-1) down(+1)
+axis 5: right trigger released(-1) pressed(1)
+buttons:
+button 0: A
+button 1: B
+button 2: X
+button 3: Y
+button 4: LB
+button 5: RB
+button 6: BACK
+button 7: START
+button 8: CENTER BUTTON
+button 9: LS
+button 10: RS
+button 11: Dpad left
+button 12: Dpad right
+button 13: Dpad up
+button 14: Dpad down

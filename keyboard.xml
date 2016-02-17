@@ -1,0 +1,74 @@
+<keyboard>
+	<row name="1">
+		<button name="`" shift_name="~" type="key" size=".5" subtype="symbol"/>
+		<button name="1" shift_name="!" type="key" size="1" subtype="symbol"/>
+		<button name="2" shift_name="@" type="key" size="1" subtype="symbol"/>
+		<button name="3" shift_name="#" type="key" size="1" subtype="symbol"/>
+		<button name="4" shift_name="$" type="key" size="1" subtype="symbol"/>
+		<button name="5" shift_name="%" type="key" size="1" subtype="symbol"/>
+		<button name="6" shift_name="^" type="key" size="1" subtype="symbol"/>
+		<button name="7" shift_name="amperstand" type="key" size="1" subtype="symbol"/>
+		<button name="8" shift_name="*" type="key" size="1" subtype="symbol"/>
+		<button name="9" shift_name="(" type="key" size="1" subtype="symbol"/>
+		<button name="0" shift_name=")" type="key" size="1" subtype="symbol"/>
+		<button name="-" shift_name="_" type="key" size="1" subtype="symbol"/>
+		<button name="=" shift_name="+" type="key" size="1" subtype="symbol"/>
+		<button name="Backspace" shift_name="Backspace" type="key" subtype="special" size="1.5"/>
+	</row>
+	<row name="2">
+		<button name="Tab" shift_name="shift tab" type="key" subtype="special" size="1"/>
+		<button name="q" shift_name="Q" type="key" size="1" subtype="letter"/>
+		<button name="w" shift_name="W" type="key" size="1" subtype="letter"/>
+		<button name="e" shift_name="E" type="key" size="1" subtype="letter"/>
+		<button name="r" shift_name="R" type="key" size="1" subtype="letter"/>
+		<button name="t" shift_name="T" type="key" size="1" subtype="letter"/>
+		<button name="y" shift_name="Y" type="key" size="1" subtype="letter"/>
+		<button name="u" shift_name="U" type="key" size="1" subtype="letter"/>
+		<button name="i" shift_name="I" type="key" size="1" subtype="letter"/>
+		<button name="o" shift_name="O" type="key" size="1" subtype="letter"/>
+		<button name="p" shift_name="P" type="key" size="1" subtype="letter"/>
+		<button name="[" shift_name="{" type="key" size="1" subtype="symbol"/>
+		<button name="]" shift_name="}" type="key" size="1" subtype="symbol"/>
+		<button name="\" shift_name="|" type="key" size="1" subtype="symbol"/>
+	</row>
+	<row name="3">
+		<button name="Caps\nLock" shift_name="Caps\nLock" type="key" subtype="special" size="1.3"/>
+		<button name="a" shift_name="A" type="key" size="1" subtype="letter"/>
+		<button name="s" shift_name="S" type="key" size="1" subtype="letter"/>
+		<button name="d" shift_name="D" type="key" size="1" subtype="letter"/>
+		<button name="f" shift_name="F" type="key" size="1" subtype="letter"/>
+		<button name="g" shift_name="G" type="key" size="1" subtype="letter"/>
+		<button name="h" shift_name="H" type="key" size="1" subtype="letter"/>
+		<button name="j" shift_name="J" type="key" size="1" subtype="letter"/>
+		<button name="k" shift_name="K" type="key" size="1" subtype="letter"/>
+		<button name="l" shift_name="L" type="key" size="1" subtype="letter"/>
+		<button name=";" shift_name=":" type="key" size="1" subtype="symbol"/>
+		<button name="apostrophe" shift_name="quotes" type="key" size="1" subtype="symbol"/>
+		<button name="Enter" shift_name="Enter" type="key" size="1.7" subtype="special"/>
+	</row>
+	<row name="4">
+		<button name="Shift" shift_name="Shift" type="key" subtype="special" size="1.7"/>
+		<button name="z" shift_name="Z" type="key" size="1" subtype="letter"/>
+		<button name="x" shift_name="X" type="key" size="1" subtype="letter"/>
+		<button name="c" shift_name="C" type="key" size="1" subtype="letter"/>
+		<button name="v" shift_name="V" type="key" size="1" subtype="letter"/>
+		<button name="b" shift_name="B" type="key" size="1" subtype="letter"/>
+		<button name="n" shift_name="N" type="key" size="1" subtype="letter"/>
+		<button name="m" shift_name="M" type="key" size="1" subtype="letter"/>
+		<button name="," shift_name="lessthan" type="key" size="1" subtype="symbol"/>
+		<button name="." shift_name="greaterthan" type="key" size="1" subtype="symbol"/>
+		<button name="/" shift_name="?" type="key" size="1" subtype="symbol"/>
+		<button name="Shift" shift_name="Shift" type="key" subtype="special" size="2.3"/>
+	</row>
+	<row name="5">
+		
+		<button name="Ctrl" shift_name="Ctrl" type="key" subtype="special" size="1.5"/>
+		<button name="Combo" shift_name="Combo" type="key" subtype="special" size="2"/>
+		<button name="Alt" shift_name="Alt" type="key" subtype="special" size="1.5"/>
+		<button name=" " shift_name=" " type="key" size="6" subtype="letter"/>
+		<button name="Alt" shift_name="Alt" type="key" subtype="special" size="1.5"/>
+		<button name="Close" shift_name="Close" type="close" size="2" subtype="close"/>
+		<button name="Ctrl" shift_name="Ctrl" type="key" subtype="special" size="1.5"/>
+		
+	</row>
+</keyboard>

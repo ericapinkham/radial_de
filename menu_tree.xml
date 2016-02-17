@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE doc [
+<!ENTITY settings SYSTEM "settings.xml">
+]>
+<data>
+	<button name="Exit" icon="system-log-out" tool_tip="logout..." type="exit">
+		<button name="Home" icon="go-home" tool_tip="go home" type="menu">
+			<button name="Favorites" icon="emblem-favorite" tool_tip="favorite applications" type="menu">
+			</button>
+			<button name="System" icon="help-contents" tool_tip="show more information about system" type="menu">
+				<button name="Settings" icon="preferences-desktop" tool_tip="settings" type="menu">
+					&settings;
+				</button>
+				<button name="Status" icon="utilities-system-monitor" tool_tip="system status" type="status">
+				</button>
+				<button name="Files" icon="folder" tool_tip="browse and manage files" type="directory" dir="default_home">
+				</button>
+				<button name="Show Desktop" icon="computer" tool_tip="show desktop" type="desktop">
+				</button>
+			</button>
+			<button name="Running Applications" icon="dialog-question" tool_tip="show a list of running applications" type="running_apps">
+			</button>
+			
+		</button>
+	</button>
+	<button name="Cancel Logout" icon="go-home" tool_tip="cancel" type="leave" subtype="cancel_logout">
+		<button name="Log Out" icon="system-log-out" tool_tip="logout" type="leave" subtype="logout"/>
+		<button name="Shut Down" icon="system-shutdown" tool_tip="shutdown system" type="leave" subtype="shutdown"/>
+		<button name="Reboot" icon="system-reboot" tool_tip="reboot system" type="leave" subtype="reboot"/>
+	</button>
+</data>

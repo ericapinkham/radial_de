@@ -1,0 +1,22 @@
+<button name="Radial Mode" type="xbox_layout" subtype="none" icon="applications-other" tool_tip="xbox button layout for radial mode">
+	<xbox name="a" icon="none" action="activate selection" />
+	<xbox name="b" icon="none" action="back" />
+	<xbox name="x" icon="none" action="sub-menu" />
+	<xbox name="center" icon="none" action="home" />
+	<xbox name="left stick" icon="none" action="change selection" />
+</button>
+<button name="Application Mode" type="xbox_layout" subtype="none" icon="applications-other" tool_tip="xbox button layout for application mode">
+	<xbox name="a" icon="none" action="left click" />
+	<xbox name="b" icon="none" action="backspace" />
+	<xbox name="x" icon="none" action="right click" />
+	<xbox name="center" icon="none" action="radial mode" />
+	<xbox name="back" icon="none" action="show keyboard" />
+	<xbox name="left bumper" icon="none" action="switch to left desktop" />
+	<xbox name="right bumper" icon="none" action="switch to right desktop" />
+	<xbox name="dpad" icon="none" action="arrow keys" />
+	<xbox name="left stick" icon="none" action="mouse" />
+	<xbox name="right stick" icon="none" action="scroll" />
+</button>
+<button name="Panic" type="xbox_layout" subtype="none" icon="applications-other" tool_tip="a panic combination">
+	<xbox name="left bumper, right bumper, back, start" icon="none" action="panic" />
+</button>

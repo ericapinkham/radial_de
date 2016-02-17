@@ -1,0 +1,31 @@
+<button name="Button Size" type="menu" subtype="none" icon="applications-other" tool_tip="set button size for radial menu" value="48">
+	<button name="huge" type="setting" subtype="none" icon="applications-other" tool_tip="huge" setting="huge" value="96"/>
+	<button name="larger" type="setting" subtype="none" icon="applications-other" tool_tip="larger" setting="larger" value="88"/>
+	<button name="large" type="setting" subtype="none" icon="applications-other" tool_tip="large" setting="large" value="80"/>
+	<button name="medium-large" type="setting" subtype="none" icon="applications-other" tool_tip="medium-large" setting="medium-large" value="72"/>
+	<button name="medium" type="setting" subtype="none" icon="applications-other" tool_tip="medium" setting="medium" value="64"/>
+	<button name="medium-small" type="setting" subtype="none" icon="applications-other" tool_tip="medium-small" setting="medium-small" value="56"/>
+	<button name="small" type="setting" subtype="none" icon="applications-other" tool_tip="small" setting="small" value="48"/>
+	<button name="smaller" type="setting" subtype="none" icon="applications-other" tool_tip="small" setting="smaller" value="40"/>
+	<button name="tiny" type="setting" subtype="none" icon="applications-other" tool_tip="tiny" setting="tiny" value="32"/>
+</button>
+<button name="Font" type="menu" icon="preferences-desktop-font" tool_tip="set font" value="Railway">
+</button>
+<button name="Cursor Speed" type="menu" icon="input-mouse" tool_tip="set cursor speed" value="20">
+	<button name="10" type="setting" subtype="none" icon="none" tool_tip="10" setting="10" value="10"/>
+	<button name="15" type="setting" subtype="none" icon="none" tool_tip="15" setting="15" value="15"/>
+	<button name="20" type="setting" subtype="none" icon="none" tool_tip="20" setting="20" value="20"/>
+	<button name="25" type="setting" subtype="none" icon="none" tool_tip="25" setting="25" value="25"/>
+	<button name="30" type="setting" subtype="none" icon="none" tool_tip="30" setting="30" value="30"/>
+	<button name="35" type="setting" subtype="none" icon="none" tool_tip="35" setting="35" value="35"/>
+	<button name="40" type="setting" subtype="none" icon="none" tool_tip="40" setting="35" value="40"/>
+</button>
+<button name="Volume" type="menu" icon="audio-volume-medium" tool_tip="raise or lower volume" value="50">
+	<button name="Raise Volume" type="setting" subtype="volume" icon="audio-volume-high" tool_tip="raise by 5%" setting="+5" value="5"/>
+	<button name="Lower Volume" type="setting" subtype="volume" icon="audio-volume-low" tool_tip="lower by 5%" setting="-5" value="5"/>
+</button>
+<button name="Controller Settings" type="menu" icon="input-gaming" tool_tip="configure controller layout" value="">
+	<button name="Radial Mode" type="xbox_layout" subtype="none" icon="applications-other" tool_tip="xbox button layout for radial mode"></button>
+	<button name="Application Mode" type="xbox_layout" subtype="none" icon="applications-other" tool_tip="xbox button layout for application mode"></button>
+	<button name="Panic" type="xbox_layout" subtype="none" icon="applications-other" tool_tip="a panic combination"></button>
+</button>
